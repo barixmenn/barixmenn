@@ -1,16 +1,20 @@
-#   <h1 align="center">Hi , I'm Barış Dilekçi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr/>
-<h4 align="center">I am a IOS Developer.</h4>
-<br>
 
-<p align="center">
-	<a href="mailto:bdilekci200@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/barixmenn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/barixmen/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/barixmen"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-	
-</p>
 
-<hr/>
+<h1 align="center">Hi 👋, I'm Barış Dilekçi</h1>
+<h3 align="center"> iOS Developer | Self Learner</h3>
 
+
+<h3 align="left">Languages</h3>
+<p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/barixmenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugberkcanozen" height="30" width="40" /></a>
+
+<h3 align="left">About Me</h3>
+
+- 🌱 I’m currently learning **Swift**
+
+- 📫 How to reach me **bdilekci200@gmail.com**
+
+- ⚡ Fun fact **Reading, Coding, Traveling**
